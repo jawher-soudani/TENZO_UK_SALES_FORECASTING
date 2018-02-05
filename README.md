@@ -108,7 +108,7 @@ This a screen shot showing how the first interface of the model and how it is su
 [![Build Status](https://lh3.googleusercontent.com/Qv_0_8_E4cC-TLuTQwYdg68pExyJeMQcxTM74DqshQe9VJqgLIGtm79a5IGb-EI3GGrp-Y7t4J3puGp62rW4vrXffevTvChR4M3w=w1532-h694-rw-no)]
 
 
-This a screen shot show the plot results that you got if you ask the model to plot results
+This a screen shot show the plot results that you will get if you ask the model to plot results
 
 [![Build Status](https://lh3.googleusercontent.com/nQ7cSXiMlKT75tWtH3heIXGZD87e-ciC_HzaFJ0MG_C2QLMfgiIq8AeZC_V1oeUQLohUvuz5NRNUg6SCx7yRWU75wsnhNNinQIld=w1465-h833-rw-no)]
 

@@ -20,7 +20,7 @@ if __name__ == '__main__':
         method=int(input("Choose forecasting method (enter the number) :\n1: Dynamic\n2: Day per Day\n"))
         ext=int(input("Do you wanna add external variables to improve accuracy ? :\n1: YES\n2: NO\n"))
         if ext==1:
-            ext_choice=int(input("Do you wanna use weather variables or promotion variables(Promotion is recommended) ? :\n1: Weather\n2: Promotion\n"))
+            ext_choice=int(input("Do you wanna use weather variables or -you can add other variable here- (Weather is recommended) ? :\n1: Weather\n2: other variable\n"))
             if ext_choice==1:
                 feature_variable="weather"
             else:
@@ -135,7 +135,7 @@ if __name__ == '__main__':
         method=int(input("Choose forecasting method (enter the number) :\n1: Dynamic\n2: Day per Day\n"))
         ext=int(input("Do you wanna add external variables to improve accuracy ? :\n1: YES\n2: NO\n"))
         if ext==1:
-            ext_choice=int(input("Do you wanna use weather variables or promotion variables(Promotion is recommended) ? :\n1: Weather\n2: Promotion\n"))
+            ext_choice=int(input("Do you wanna use weather variables or -you can add other variable here- (Weather is recommended) ? :\n1: Weather\n2: other variable\n"))
             if ext_choice==1:
                 feature_variable="weather"
             else:
@@ -211,7 +211,7 @@ if __name__ == '__main__':
         ide=int(input("\nEnter the location ID you want to forecast : "))
         ext=int(input("\nDo you wanna add external variables to improve accuracy ? :\n1: YES\n2: NO\n"))
         if ext==1:
-            ext_choice=int(input("Do you wanna use weather variables or promotion variables(Promotion is recommended) ? :\n1: Weather\n2: Promotion\n"))
+            ext_choice=int(input("Do you wanna use weather variables or -you can add other variable here- (Weather is recommended) ? :\n1: Weather\n2: other variable\n"))
             if ext_choice==1:
                 feature_variable="weather"
             else:

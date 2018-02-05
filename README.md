@@ -105,6 +105,14 @@ This a screen shot showing how the first interface of the model and how it is su
 [![Build Status](https://drive.google.com/file/d/1RbsUMdMs4_rHevdCKnCwgY-L_fKS3iph/view)]
 
 
+This a screen shot show the plot results that you got if you ask the model to plot results
+
+[![Build Status](https://lh3.googleusercontent.com/nQ7cSXiMlKT75tWtH3heIXGZD87e-ciC_HzaFJ0MG_C2QLMfgiIq8AeZC_V1oeUQLohUvuz5NRNUg6SCx7yRWU75wsnhNNinQIld=w1465-h833-rw-no)]
+
+
+This a screen shot show the MAPE calculated by the model ( you need to close the plot graph to get the MAPE)
+
+[![Build Status](https://lh4.googleusercontent.com/Tp1xs9PV_sqGNw_Aif1mgPAH1EPcek_kov_VyovZZsBL5dwbm0KIDiyIU-yiv1zSKeFIKQnZ5Vr0pg=w1920-h928-rw)]
 
 ```
 Final remarks 

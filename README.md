@@ -101,8 +101,9 @@ Some screen shots
 ```
 This a screen shot showing how the first interface of the model and how it is super easy to configure (all the real work is done in background , you only give orders )
 
+[![Build Status]https://lh4.googleusercontent.com/AY2JsOJEvDI975WUs9404OBxQZjM4zue1iXLCaAq-cG3acCXafjw0gm0MqZbpLnDG5cLPVAKQBqWeg=w1920-h928-rw)](https://www.gotenzo.com/)
 
-[![Build Status](https://lh4.googleusercontent.com/AY2JsOJEvDI975WUs9404OBxQZjM4zue1iXLCaAq-cG3acCXafjw0gm0MqZbpLnDG5cLPVAKQBqWeg=w1920-h928-rw)]
+
 
 ```
 Some screen shots

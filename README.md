@@ -1,10 +1,25 @@
 # TENZO UK SALES FORECASTING
 
+```
+What is this ?
+```
+This an automatic multi model platform for forecasting sales made for tenzo company by Telecom Paristech team
+
+```
+Tenzo
+```
+
 Tenzo is a start up that helps restaurants gain value from their data by connecting all data
 sources and providing valuable data to owners, managers and store employees in real time
 on mobile and web. More specifically, it helps restaurants increase procurement efficiency
 with automated forecasting and dynamically find the right balance of delivery and in-store
 resources.
+
+Supervisors: 
+```
+Christian MOUYSSET
+ADAM TAYLOR
+```
 
 
 Authors: 
@@ -19,13 +34,12 @@ Yiying Jiang
 
 Yuezhu Fang
 
-Anas Barakat
-
 ```
+
 Requiremnet :
 
 
-[![Build Status](https://www.gotenzo.com/wp-content/themes/tenzo_new3/img/logo-big.png)](https://www.google.com)
+[![Build Status](https://www.gotenzo.com/wp-content/themes/tenzo_new3/img/logo-big.png)](https://www.gotenzo.com/)
 
 Python 3.6 or higher version
 
@@ -75,5 +89,9 @@ The models in this platform are seprated , and each class is also seperated so y
 This is a beta version that show a great results but it can be improved by adding graphical interface to it
 We deleted random forest from this platform because it gave the results as LSTM
 
-
+```
+Some screen shots
+```
+This a screen shot showing how the first interface of the model and how it is super easy to configure (all the real work is done in background , you only give orders )
+[![Build Status](https://lh4.googleusercontent.com/AY2JsOJEvDI975WUs9404OBxQZjM4zue1iXLCaAq-cG3acCXafjw0gm0MqZbpLnDG5cLPVAKQBqWeg=w1920-h928-rw)]
 

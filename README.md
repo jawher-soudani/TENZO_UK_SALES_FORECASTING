@@ -93,7 +93,7 @@ We deleted random forest from this platform because it gave the results as LSTM
 Why it asked for put an other variable with weather ?
 ```
 
-We put this to show you that the model can be modified to add any varibale you want
+We put this to tell you that the model can be modified to add any varibale you want
 We used count_guest_number for that other varibale just to fill it but count_guest_number is not an external feature !!! be carefull
 
 

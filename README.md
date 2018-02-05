@@ -90,6 +90,13 @@ This is a beta version that show a great results but it can be improved by addin
 We deleted random forest from this platform because it gave the results as LSTM
 
 ```
+Why it asked for put an other variable with weather ?```
+
+We put this to show you that the model can be modified to add any varibale you want
+We used count_guest_number for that other varibale just to fill it but count_guest_number is not an external feature !!! be carefull
+
+
+```
 Some screen shots
 ```
 This a screen shot showing how the first interface of the model and how it is super easy to configure (all the real work is done in background , you only give orders )
@@ -97,3 +104,22 @@ This a screen shot showing how the first interface of the model and how it is su
 
 [![Build Status](https://lh4.googleusercontent.com/AY2JsOJEvDI975WUs9404OBxQZjM4zue1iXLCaAq-cG3acCXafjw0gm0MqZbpLnDG5cLPVAKQBqWeg=w1920-h928-rw)]
 
+
+This a screen shot show the plot results that you got if you ask the model to plot results
+
+
+[![Build Status](https://lh3.googleusercontent.com/W0ohT1lHjw9EBv-jC8wDnJ6xUOvaZoMgdwvA05bhzObjYYOappHZx6lvUJsSPicuvnWZ7elA-Qt3_A=w1920-h928-rw)]
+
+
+This a screen shot show the MAPE calculated by the model ( you need to close the plot graph to get the MAPE)
+
+
+[![Build Status](https://lh3.googleusercontent.com/kToWAR2xOrmSuJ2iBfRugrNCJIVAfJLMqQgUtBaW_NW1WsRqx4VVqhQ5hSXCXW7eGBHGkBHOkI2zXw=w1920-h928-rw)]
+
+```
+```
+The platform works for all locations
+If you choose location and you want to add external feature , make sure that this location has external features , otherwise you will import empty table and the model won't work
+If you choose not to add external features, no verification needed , it will always work.
+Results are optimised for all models
+Parameters are autotuned by the models

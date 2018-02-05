@@ -37,7 +37,6 @@ Go to [`Tenso_Flow_Installation`](https://www.tensorflow.org/install/) for Tenso
 Go to [`Keras_Installation`](https://keras.io/) for Keras installation
 
 
-https://keras.io/
 
 ```
 Integrated Platform develepped by our team
@@ -74,6 +73,7 @@ Can I modify this platform
 
 The models in this platform are seprated , and each class is also seperated so you can add other models or delete them , or add other features , or add others options
 This is a beta version that show a great results but it can be improved by adding graphical interface to it
+We deleted random forest from this platform because it gave the results as LSTM
 
 
 

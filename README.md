@@ -102,7 +102,7 @@ Some screen shots
 ```
 This a screen shot showing how the first interface of the model and how it is super easy to configure (all the real work is done in background , you only give orders )
 
-[![Build Status](https://drive.google.com/file/d/1RbsUMdMs4_rHevdCKnCwgY-L_fKS3iph/view)]
+[![Build Status](https://lh3.googleusercontent.com/Qv_0_8_E4cC-TLuTQwYdg68pExyJeMQcxTM74DqshQe9VJqgLIGtm79a5IGb-EI3GGrp-Y7t4J3puGp62rW4vrXffevTvChR4M3w=w1532-h694-rw-no)]
 
 
 This a screen shot show the plot results that you got if you ask the model to plot results
@@ -112,7 +112,7 @@ This a screen shot show the plot results that you got if you ask the model to pl
 
 This a screen shot show the MAPE calculated by the model ( you need to close the plot graph to get the MAPE)
 
-[![Build Status](https://lh4.googleusercontent.com/Tp1xs9PV_sqGNw_Aif1mgPAH1EPcek_kov_VyovZZsBL5dwbm0KIDiyIU-yiv1zSKeFIKQnZ5Vr0pg=w1920-h928-rw)]
+[![Build Status (https://lh3.googleusercontent.com/5RBlgnZqtVsdmMQmBlMyj9DBIjmi4izwNd4Q4CERvPXTVqwv2svBS_vTWAAj9oWWarxIN1xzWUFWZ4athzrWQD8BEHgGMqbtpOgg=w1684-h717-rw-no)]
 
 ```
 Final remarks 

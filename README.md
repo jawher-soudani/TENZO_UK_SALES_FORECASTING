@@ -9,13 +9,15 @@ This an automatic multi model platform for forecasting sales made for tenzo comp
 Tenzo
 ```
 
-[![Build Status](https://www.gotenzo.com/wp-content/themes/tenzo_new3/img/logo-big.png)](https://www.gotenzo.com/)
-
 Tenzo is a start up that helps restaurants gain value from their data by connecting all data
 sources and providing valuable data to owners, managers and store employees in real time
 on mobile and web. More specifically, it helps restaurants increase procurement efficiency
 with automated forecasting and dynamically find the right balance of delivery and in-store
 resources.
+
+
+[![Build Status](https://www.gotenzo.com/wp-content/themes/tenzo_new3/img/logo-big.png)](https://www.gotenzo.com/)
+
 
 Supervisors: 
 ```

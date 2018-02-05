@@ -102,7 +102,7 @@ Some screen shots
 ```
 This a screen shot showing how the first interface of the model and how it is super easy to configure (all the real work is done in background , you only give orders )
 
-[![Build Status](https://lh6.googleusercontent.com/el6pUalRRt4V0xOEVMqi_sHz6LJ3KwoNOUoTwp_8EaD8bdNFxfZ2ruqLIH-O-MO6dCYriEbyGm551g=w1920-h928-rw)]
+[![Build Status](https://drive.google.com/file/d/1RbsUMdMs4_rHevdCKnCwgY-L_fKS3iph/view)]
 
 
 

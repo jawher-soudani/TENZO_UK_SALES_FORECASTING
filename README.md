@@ -82,7 +82,7 @@ Super easy , you just run program runner.py  (command : python porgram_runner.py
 It's guided , no knowledge needed to perform forecasting.
 
 ```
-Can I modify this platform
+Can I modify this platform ? 
 ```
 
 The models in this platform are seprated , and each class is also seperated so you can add other models or delete them , or add other features , or add others options
@@ -90,7 +90,8 @@ This is a beta version that show a great results but it can be improved by addin
 We deleted random forest from this platform because it gave the results as LSTM
 
 ```
-Why it asked for put an other variable with weather ?```
+Why it asked for put an other variable with weather ?
+```
 
 We put this to show you that the model can be modified to add any varibale you want
 We used count_guest_number for that other varibale just to fill it but count_guest_number is not an external feature !!! be carefull

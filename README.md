@@ -64,18 +64,18 @@ The characteristics of this model are :
 
 • Multiple Models platform: when using this integrated model , it first asks the user
 to choose one of the three models to start working with. The configuration and the
-options proposed depend on this choice.
+options proposed depend on this choice.<br />
 • Multiple options : Our integrated model propose multiple option do perform forecasting
 on any number of days. The user can ask to do forecasting using dynamic method or
 step by step method. Dynamic method forecast sales on any period of time using only
 past data , the second method needs to retrain the model after each forecast using the
-real value of the prediction.
+real value of the prediction.<br />
 • Multi-usage : this model can be used to describe and analyze data or to forecast future
-sales
+sales<br />
 • Auto-Configuration : the model propose a high level configuration method that does
-not require any technical knowledge to perform forecasting
+not require any technical knowledge to perform forecasting<br />
 • Auto-Error handler : the model handle or internal error so that is does not interrupt
-forecasting when used for multiple locations.
+forecasting when used for multiple locations.<br />
 
 ```
 How to run it
@@ -121,8 +121,8 @@ This a screen shot show the MAPE calculated by the model ( you need to close the
 ```
 Final remarks 
 ```
-The platform works for all locations
-If you choose location and you want to add external feature , make sure that this location has external features , otherwise you will import empty table and the model won't work
-If you choose not to add external features, no verification needed , it will always work.
-Results are optimised for all models
-Parameters are autotuned by the models
+The platform works for all locations<br />
+If you choose location and you want to add external feature , make sure that this location has external features , otherwise you will import empty table and the model won't work<br />
+If you choose not to add external features, no verification needed , it will always work.<br />
+Results are optimised for all models<br />
+Parameters are autotuned by the models<br />

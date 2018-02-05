@@ -112,7 +112,8 @@ This a screen shot show the plot results that you got if you ask the model to pl
 
 This a screen shot show the MAPE calculated by the model ( you need to close the plot graph to get the MAPE)
 
-[![Build Status (https://lh3.googleusercontent.com/5RBlgnZqtVsdmMQmBlMyj9DBIjmi4izwNd4Q4CERvPXTVqwv2svBS_vTWAAj9oWWarxIN1xzWUFWZ4athzrWQD8BEHgGMqbtpOgg=w1684-h717-rw-no)]
+[![Build Status](https://lh3.googleusercontent.com/5RBlgnZqtVsdmMQmBlMyj9DBIjmi4izwNd4Q4CERvPXTVqwv2svBS_vTWAAj9oWWarxIN1xzWUFWZ4athzrWQD8BEHgGMqbtpOgg=w1684-h717-rw-no)]
+
 
 ```
 Final remarks 

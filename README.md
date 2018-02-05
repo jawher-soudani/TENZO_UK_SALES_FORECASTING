@@ -104,18 +104,6 @@ This a screen shot showing how the first interface of the model and how it is su
 [![Build Status](https://lh6.googleusercontent.com/el6pUalRRt4V0xOEVMqi_sHz6LJ3KwoNOUoTwp_8EaD8bdNFxfZ2ruqLIH-O-MO6dCYriEbyGm551g=w1920-h928-rw)]
 
 
-This a screen shot show the plot results that you got if you ask the model to plot results
-
-
-[![Build Status](https://lh3.googleusercontent.com/cmKn1vcWtQtP_2HrLuGpwuMKtK7ZKDW9Ha5JssCprc6IY5OKT78qtLUZacoY6kvytwMG9XwM8OtQXQ=w1920-h928-rw)]
-
-```
-Some screen shots
-```
-This a screen shot show the MAPE calculated by the model ( you need to close the plot graph to get the MAPE)
-
-
-[![Build Status](https://lh4.googleusercontent.com/Tp1xs9PV_sqGNw_Aif1mgPAH1EPcek_kov_VyovZZsBL5dwbm0KIDiyIU-yiv1zSKeFIKQnZ5Vr0pg=w1920-h928-rw)]_
 
 ```
 Final remarks 
